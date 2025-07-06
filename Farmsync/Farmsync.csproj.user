@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminSellers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buyer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="regBuyer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="regSeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SellerProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SellerSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Seller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SellerCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SellerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SellerRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
